@@ -25,5 +25,4 @@ const listingOptionalShape = PropTypes.oneOfType([
   listingShape,
 ]);
 
-
 export {listingShape, listingOptionalShape};
